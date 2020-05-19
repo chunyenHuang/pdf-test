@@ -1,0 +1,5 @@
+node_modules
+.DS_*
+
+src/output.pdf
+src/html.pdf
